@@ -39,6 +39,9 @@ Final Evaluation :
 0.86245
 
 take look at kaggle  for verification : 
+
+https://www.kaggle.com/bannourchaker/credit-part4-evaluation-all/notebook?scriptVersionId=84977736
+
 https://www.kaggle.com/bannourchaker/credit-part1-dataunderstanding?scriptVersionId=84915808
 
 
