@@ -33,7 +33,7 @@ Final Evaluation :
 4308.6s
 
 -Private Score
-0.86914
+0.86914 ==>top5 solution
 
 -Public Score
 0.86245
